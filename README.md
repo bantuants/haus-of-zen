@@ -145,3 +145,4 @@ The built app in `dist/` can be deployed to any static hosting service.
 ## License
 
 This project is private and proprietary to Haus of Zen.
+# haus-of-zen
